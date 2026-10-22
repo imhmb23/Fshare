@@ -1,0 +1,21 @@
+Fshare Binary License
+Copyright (c) 2026 Bilal. All rights reserved.
+
+You may download, install and use official Fshare binaries without charge for
+personal or commercial purposes. You may redistribute the unmodified official
+installer, including through package managers, provided this license and all
+third-party notices remain intact and you do not represent modified software
+as an official Fshare release.
+
+This permission applies to compiled binaries only. No license to Fshare's
+proprietary source code is granted. No trademark rights are granted.
+
+Third-party components remain subject to their own licenses. Their notices are
+included with the application and those licenses govern those components.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE
+COPYRIGHT HOLDER IS NOT LIABLE FOR CLAIMS OR DAMAGES ARISING FROM THE SOFTWARE.
+Nothing in this license excludes rights or liabilities that applicable law
+does not permit to be excluded.
