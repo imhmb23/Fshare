@@ -17,8 +17,9 @@ network. Allow Fshare on Private networks when Windows Firewall prompts.
 
 ## WinGet
 
-The planned package ID is **Bilal.Fshare**. After its community-repository
-submission is merged and indexed, install it with:
+The package ID is **Bilal.Fshare**. Its
+[WinGet submission](https://github.com/microsoft/winget-pkgs/pull/459655) is under
+review. After it is merged and indexed, install it with:
 
 ```powershell
 winget install --id Bilal.Fshare --exact --source winget
